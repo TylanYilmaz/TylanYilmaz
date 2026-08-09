@@ -22,6 +22,8 @@ ty@metu:~$ _
 
 </div>
 
+---
+
 ```console
 ty@metu:~$ exit
 logout
