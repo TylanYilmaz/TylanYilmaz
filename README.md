@@ -22,6 +22,6 @@ ty@metu:~$ _
 
 <br>
 
-<sub>ty@metu:~$ exit</sub>
+<sub><samp>ty@metu:~$ exit</samp></sub>
 
 </div>
