@@ -20,8 +20,9 @@ ty@metu:~$ _
 
 <img src="https://raw.githubusercontent.com/TylanYilmaz/TylanYilmaz/output/snake.svg" alt="contribution snake" />
 
-<br>
-
-<sub><samp>ty@metu:~$ exit</samp></sub>
-
 </div>
+
+```console
+ty@metu:~$ exit
+logout
+```
