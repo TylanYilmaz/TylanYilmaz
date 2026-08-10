@@ -32,4 +32,5 @@ ty@metu:~$ _
 
 ```console
 ty@metu:~$ exit
+logout
 ```
