@@ -10,9 +10,9 @@
 ```console
 ty@metu:~$ ./about.sh
 
-  role      Computer Engineering @ METU, Ankara
-  status    3rd year incoming — 2 down, 2 to go
-  building  small tools that solve my own problems
+  base        Computer Engineering @ METU, Ankara
+  currently   ECE Exchange Student @ UT, Austin
+  standing    Junior
 
 ty@metu:~$ _
 ```
