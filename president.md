@@ -5,7 +5,7 @@ You are looking in the right places.
 
 But the actual challenge is here:
 
-[Operation: Save the President](https://tryhackme.com/room/savethemetuacmpresident)
+[Operation: Save the President](https://tryhackme.com/jr/savethemetuacmpresident)
 
 ---
 
